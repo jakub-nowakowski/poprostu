@@ -1,1 +1,3 @@
 # poprostu
+i dodaje sobie cos tam...
+
